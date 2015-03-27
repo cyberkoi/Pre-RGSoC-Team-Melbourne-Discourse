@@ -15,3 +15,6 @@ Loose Roadmap:
 - Week 6 - Add site settings to configure plugin
 - Week 7 - Create tests for plugin component
 - Week 8 - Package plugin for Distribution
+
+* Vi has a basic background in Rails
+* Sarah has coded in Java, Python, mySQL.
