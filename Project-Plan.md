@@ -100,7 +100,8 @@ We intend to make time available before July to complete the following tasks:
 **During RGSoC**
 
 * Schedule a Javascript workshop at Redbubble. Particulars of this workshop will relate to building the plugin.
-* Update our blog and social media with our progress for rgsoc. 
+* Update our social media platforms and daily log with current progress. 
+* Get in-touch with the community, attend rails meetups, spread the word!
 * 
 * Redbubble = coaching company + our workspace at Melbourne CBD. 
 
@@ -125,6 +126,6 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 We believe that Discourse is a fantastic discussion platform and the advertising plugin is a practical contribution that would be valuable for current and future users of Discourse.  That is the reason why we have chosen to work on the issues identified.  Additionally,
 
 * Vi: I intend to use Discourse to create a forum and down the track, advertising is something I would utilize. I would be eager to maintain and further the contribution of the advertising plugin beyond Rails Girls Summer of Code.
-* Sarah: Discourse is a relatively well-developed site. Hope to brush up on coding and gain some real experience with rgsoc and discourse with fantastic mentors and coaches. Also, advertising plugins are fairly interesting.
+* Sarah: Discourse is a relatively well-developed site. Hope to brush up on coding and gain some real experience with rgsoc and discourse with fantastic mentors and coaches. Also, advertising plugins are fairly interesting. Fairly excited to venture into the open-source community.
 
 At the end of the day, we'd like to create something that is requested and needed by the Discourse community.
