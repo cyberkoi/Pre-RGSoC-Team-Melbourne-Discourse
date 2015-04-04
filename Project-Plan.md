@@ -60,13 +60,13 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 4.2.3 | Users may negotiate their own advertising directly without needing to go through an advertising platform.  Existing plugin from baseline plan would not accommodate this. | Support for custom banners so that Discourse administrators can use their own chosen ads without an ad provider.  This will include basic tracking of how many impressions and clicks throughs the ad received.
 
 
-### 4.3 What we expect to Learn
-4.3.1 | The core of your project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
-4.3.2 | Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
-4.3.3 | Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
+## 5. What we expect to Learn
+* The core of our project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
+* Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
+* Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
 
 
-## 5. Project Roadmap
+## 6. Project Roadmap
 
 The roadmap breaks down the action items we have planned to achieve the baseline goals shown in **Point 4.1**.  As stretch goals are contingent on meeting baseline goals, stretch goal items are not shown below as they will be determined in discussion with our mentor and coaches if the case arises.
 
@@ -82,7 +82,7 @@ The roadmap breaks down the action items we have planned to achieve the baseline
 8 | Package plugin for Distribution
 
 
-## 6. Required Learning
+## 7. Required Learning
 
 As stated by Robin Ward (mentor):
 
@@ -112,7 +112,7 @@ We intend to make time available before July to complete the following tasks:
 * Redbubble = coaching company + our workspace at Melbourne CBD. 
 
 
-## 7. How It Will Work
+## 8. How It Will Work
 
 To make sure that we work effectively towards achieving our goals, we plan to:
 
@@ -121,13 +121,16 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 * Manage daily tasks and workflow through trello.com
 * Schedule coaches and mentor times through a shared Google calendar.
 * 
+* Overall communication channels: Github private repo (see @snjqi188 discourse-ad-tm), Discourse banter (see link in Point 3), Email, Google hangout, Google calendar
+* Overall update channels: Twitter/Blog (to be created), trello
+* 
 * Coaches' weekly commitment, generic timetable:
 * Jo: 8-10am or after 4pm, either Tues, Wed, Thur
 * Adel: After 2.30pm on Tues, Thur
 * Redbubble (Dane and Georg): Anytime in the office with volunteer coaches to work it out.
 
 
-## 8. Rationale for Choosing to Work on Issues Identified in Discourse
+## 9. Rationale for Choosing to Work on Issues Identified in Discourse
 
 We believe that Discourse is a fantastic discussion platform and the advertising plugin is a practical contribution that would be valuable for current and future users of Discourse.  That is the reason why we have chosen to work on the issues identified.  Additionally,
 
