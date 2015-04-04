@@ -90,7 +90,7 @@ We intend to make time available before July to complete the following tasks:
 
 * Acquire Javascript fundamentals. Ã
 ..* Vi: Refresh and complete itune Library course on Programming Methodology and read The Art and Science of Java. Go through [http://eloquentjavascipt.net/](http://eloquentjavascipt.net/).
-..* Sarah: [**FILL IN WHAT YOUR PLANS ARE WITH THIS]**
+..* Sarah: Javascript basics ^itunes library course + get fundamental help from codeacademy and see how much I can cover from the following advice http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954. Also to learn rails http://www.schneems.com/ut-rails/.
 * Read through Ember.js - [http://guides.emberjs.com/v1.11.0/](http://guides.emberjs.com/v1.11.0/), [http://todomvc.com/examples/emberjs/](http://todomvc.com/examples/emberjs/).
 * Familiarization with Discourse by:
 ..* Installing Discourse locally.
@@ -100,6 +100,7 @@ We intend to make time available before July to complete the following tasks:
 **During RGSoC**
 
 * Schedule a Javascript workshop at Redbubble. Particulars of this workshop will relate to building the plugin.
+* Update our blog and social media requirements with our progress for rgsoc. 
 
 
 ## 7. How It Will Work
@@ -110,6 +111,11 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 * Use pull requests with individual coaches.
 * Manage daily tasks and workflow through trello.com
 * Schedule coaches and mentor times through a shared Google calendar.
+* 
+* Coaches' weekly commitment, generic timetable:
+* Jo: 8-10am or after 4pm, either Tues, Wed, Thur
+* Adel: After 2.30pm on Tues, Thur
+* Redbubble (Dane and Georg): Anytime in the office with volunteer coaches to work it out
 
 
 ## 8. Rationale for Choosing to Work on Issues Identified in Discourse
@@ -117,6 +123,6 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 We believe that Discourse is a fantastic discussion platform and the advertising plugin is a practical contribution that would be valuable for current and future users of Discourse.  That is the reason why we have chosen to work on the issues identified.  Additionally,
 
 * Vi: I intend to use Discourse to create a forum and down the track, advertising is something I would utilize. I would be eager to maintain and further the contribution of the advertising plugin beyond Rails Girls Summer of Code.
-* Sarah: [**ADD YOUR VIEW**].
+* Sarah: Discourse is a relatively well-developed site. Hope to brush up on coding and gain some real experience with rgsoc and discourse with fantastic mentors and coaches. Also, advertising plugins are fairly interesting.
 
 At the end of the day, we'd like to create something that is requested and needed by the Discourse community.
