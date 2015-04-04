@@ -61,9 +61,9 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 
 
 ### 4.3 What we expect to Learn
-4.3.1 The core of your project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
-4.3.2 Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
-4.3.3 Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
+4.3.1 | The core of your project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
+4.3.2 | Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
+4.3.3 | Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
 
 
 ## 5. Project Roadmap
