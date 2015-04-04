@@ -100,7 +100,9 @@ We intend to make time available before July to complete the following tasks:
 **During RGSoC**
 
 * Schedule a Javascript workshop at Redbubble. Particulars of this workshop will relate to building the plugin.
-* Update our blog and social media requirements with our progress for rgsoc. 
+* Update our blog and social media with our progress for rgsoc. 
+* 
+* Redbubble = coaching company + our workspace at Melbourne CBD. 
 
 
 ## 7. How It Will Work
@@ -115,7 +117,7 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 * Coaches' weekly commitment, generic timetable:
 * Jo: 8-10am or after 4pm, either Tues, Wed, Thur
 * Adel: After 2.30pm on Tues, Thur
-* Redbubble (Dane and Georg): Anytime in the office with volunteer coaches to work it out
+* Redbubble (Dane and Georg): Anytime in the office with volunteer coaches to work it out.
 
 
 ## 8. Rationale for Choosing to Work on Issues Identified in Discourse
