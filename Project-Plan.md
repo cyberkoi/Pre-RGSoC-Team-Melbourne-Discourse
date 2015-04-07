@@ -18,9 +18,17 @@ The coaches involved in this project are shown below.
 
 **Company/Individual** | **Coach Names**
 --- | ---
-Coaching Company: RedBubble | Structure for names are [First Name Surname, Github handle].Georg [INSERTLASTNAME], [githubname]Dane Natoli[ADD ADDITIONAL NAMES – some names are already on the Rails Girls Community].
-Individual | Jo Cranford, @jocranford
-Individual | Adel Smee, @adelsmee
+Coaching Company: Redbubble | Georg Friedrich, [@georg](https://github.com/georg)
+ | Dane Natoli, [@link664](https://github.com/link664)
+ | Shanon McQuay, [@compactcode](https://github.com/compactcode)
+ | David Carlin, [@davich](https://github.com/davich)
+ | Joseph Miller, [@joffotron](https://github.com/joffotron)
+ | Seb Glazebrook, [@sebglazebrook](https://github.com/sebglazebrook)
+ | Michael Milewski, [@saramic](https://github.com/saramic)
+ | Myles Eftos, [@madpilot](https://github.com/madpilot)
+ | Tom Adams, [@tomjadams](https://github.com/tomjadams)
+Individual | Jo Cranford, [@jocranford](https://github.com/jocranford)
+Individual | Adel Smee, [@adelsmee](https://github.com/adelsmee)
 
 
 ## 3. Mentor
