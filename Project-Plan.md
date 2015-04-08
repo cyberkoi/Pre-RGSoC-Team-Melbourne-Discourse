@@ -1,6 +1,5 @@
 # Project Plan: Discourse Advertising Plugin
 
----
 
 Team Melbourne (@ladydanger and @snjqi188) plan to contribute to Discourse by creating an advertising plugin.
 
@@ -102,21 +101,22 @@ We will make time to learn the following:
 
 We intend to make time available before July to complete the following tasks:
 
-* Acquire Javascript fundamentals. Ã
-..* Vi: Refresh and complete itune Library course on Programming Methodology and read The Art and Science of Java. Go through [http://eloquentjavascipt.net/](http://eloquentjavascipt.net/).
-..* Sarah: Javascript basics ^itunes library course + get fundamental help from codeacademy and see how much I can cover from the following advice http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954. Also to learn rails http://www.schneems.com/ut-rails/.
+* Acquire Javascript fundamentals
+⋅⋅* Vi: Javascript basics itunes library course + get fundamental help from codeacademy. Read Agile Web Development with Rails 4.  Go through [http://eloquentjavascipt.net/](http://eloquentjavascipt.net/).
+⋅⋅* Sarah: Javascript basics ^itunes library course + get fundamental help from codeacademy and see how much I can cover from the following advice http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954. Also to learn rails http://www.schneems.com/ut-rails/.
+
 * Read through Ember.js - [http://guides.emberjs.com/v1.11.0/](http://guides.emberjs.com/v1.11.0/), [http://todomvc.com/examples/emberjs/](http://todomvc.com/examples/emberjs/).
 * Familiarization with Discourse by:
-..* Installing Discourse locally.
-..* Playing with the code base.
-..* Creating a trivial plugin, look through plugins on meta, install and play with code to try and change things.
+⋅⋅* Installing Discourse locally.
+⋅⋅* Playing with the code base.
+⋅⋅* Creating a trivial plugin, looking through plugins on meta, install and play with code to try and change things.
 
 **During RGSoC**
 
 * Schedule a Javascript workshop at Redbubble. Particulars of this workshop will relate to building the plugin.
 * Update our social media platforms and daily log with current progress. 
 * Get in-touch with the community, attend rails meetups, spread the word!
-* 
+* Keep a weekly blog of our learning adventures.  Vi currently blogs a
 * Redbubble = coaching company + our workspace at Melbourne CBD. 
 
 
