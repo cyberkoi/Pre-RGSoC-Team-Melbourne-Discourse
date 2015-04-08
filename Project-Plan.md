@@ -71,9 +71,9 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 * The core of our project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
 * Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
 * Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
-* - Learning simple hook plugins:
-* - Learning to install google analytics: 
-* -
+*  Learning simple hook plugins: for uninstall, deactivation and activation purposes
+*  Learning to install google analytics: 
+*  As such, understand the scope and integrity of plugins: its potential and purposes for Discourse
 * 
 
 
@@ -107,6 +107,7 @@ We intend to make time available before July to complete the following tasks:
 
 * Acquire Javascript fundamentals
 ⋅⋅* Vi: Javascript basics itunes library course + get fundamental help from codeacademy. Read Agile Web Development with Rails 4.  Go through [http://eloquentjavascipt.net/](http://eloquentjavascipt.net/).
+
 ⋅⋅* Sarah: Javascript basics ^itunes library course + get fundamental help from codeacademy and see how much I can cover from the following advice http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954. Also to learn rails http://www.schneems.com/ut-rails/.
 
 * Read through Ember.js - [http://guides.emberjs.com/v1.11.0/](http://guides.emberjs.com/v1.11.0/), [http://todomvc.com/examples/emberjs/](http://todomvc.com/examples/emberjs/).
