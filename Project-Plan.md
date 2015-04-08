@@ -72,6 +72,10 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 * The core of our project plan: Creating a functioning advertising plugin. (**INCOMPLETE**)
 * Concept of what you want to learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile), and in the process learn javascript and Ruby (also see **Point 6** and **Point 8** below) (**INCOMPLETE**)
 * Pick 2-3 current issues from your preferred project and why you chose them (with regard to your skill level), explain the what you expect to learn (**INCOMPLETE**)
+* - Learning simple hook plugins:
+* - Learning to install google analytics: 
+* -
+* 
 
 
 ## 6. Project Roadmap
