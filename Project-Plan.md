@@ -144,7 +144,7 @@ Overall communication channels:
 * Github private repo (see @snjqi188 discourse-ad-tm), Discourse banter (see link in Point 3), Email, Google hangout, Google calendar
 * Overall updates: Twitter/Blog (to be created), trello
 
-* Coaches' weekly commitment, generic timetable:
+Coaches' weekly commitment, generic timetable:
 * Jo: 8-10am or after 4pm, either Tues, Wed, Thur
 * Adel: After 2.30pm on Tues, Thur
 * Redbubble (Dane and Georg): Anytime in the office with volunteer coaches to work it out.
