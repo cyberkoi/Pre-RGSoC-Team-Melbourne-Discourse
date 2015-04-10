@@ -111,6 +111,7 @@ We will make time to learn the following:
 We intend to make time available before July to complete the following tasks:
 
 * Acquire Javascript fundamentals
+
 ⋅⋅* Vi: Javascript basics itunes library course + get fundamental help from codeacademy. Read Agile Web Development with Rails 4.  Go through [http://eloquentjavascipt.net/](http://eloquentjavascipt.net/).
 
 ⋅⋅* Sarah: Javascript basics ^itunes library course + get fundamental help from codeacademy and see how much I can cover from the following advice http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954. Also to learn rails http://www.schneems.com/ut-rails/.
@@ -138,10 +139,11 @@ To make sure that we work effectively towards achieving our goals, we plan to:
 * Use pull requests with individual coaches.
 * Manage daily tasks and workflow through trello.com
 * Schedule coaches and mentor times through a shared Google calendar.
-* 
-* Overall communication channels: Github private repo (see @snjqi188 discourse-ad-tm), Discourse banter (see link in Point 3), Email, Google hangout, Google calendar
-* Overall update channels: Twitter/Blog (to be created), trello
-* 
+
+Overall communication channels: 
+* Github private repo (see @snjqi188 discourse-ad-tm), Discourse banter (see link in Point 3), Email, Google hangout, Google calendar
+* Overall updates: Twitter/Blog (to be created), trello
+
 * Coaches' weekly commitment, generic timetable:
 * Jo: 8-10am or after 4pm, either Tues, Wed, Thur
 * Adel: After 2.30pm on Tues, Thur
