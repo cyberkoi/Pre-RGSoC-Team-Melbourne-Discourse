@@ -68,16 +68,18 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 
 
 ## 5. What we expect to Learn
-* Creating a functioning advertising plugin. (**INCOMPLETE**)
-* Advertising plugin specifics, on multiple platforms and devices (PC and Mobile).
-* In the process learn Javascript and Ruby (also see **Point 6** and **Point 8** below).
-* 
-* As we're both beginners in Rails and Javascript, we hope to pick up some skills prior to RGSoC so that we'll be even more adequately prepared for the 8 week-long tasks (see **Point 6**)
-* We chose the following issues as they're new concepts to us but are manageable for our skill level:
+Goal: Creating a functioning advertising plugin. (**INCOMPLETE**)
+
+Hope to Learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile). In the process learn Javascript and Ruby (also see **Point 6** and **Point 8** below).
+
+As we're both beginners in Rails and Javascript, we hope to pick up some skills prior to RGSoC so that we'll be even more adequately prepared for the 8 week-long tasks (see **Point 6**)
+
+We chose the following issues as they're new concepts to us but are manageable for our skill level:
 *  Learning simple hook plugins: for uninstall, deactivation and activation purposes
 *  Learning to install google analytics with web tracking purposes for plugins
 *  As such, understand the scope and integrity of plugins: its potential and purposes for Discourse
-*  From our current understanding, plugins would require a few files of code, and with that base that we aspire to achieve in 8 weeks, we hope to reach our stretch goals by adding advance features (see **Point 4.2**). 
+
+From our current understanding, plugins would require a few files of code, and with that base that we aspire to achieve in 8 weeks, we hope to reach our stretch goals by adding advance features (see **Point 4.2**). 
 
 
 ## 6. Project Roadmap
