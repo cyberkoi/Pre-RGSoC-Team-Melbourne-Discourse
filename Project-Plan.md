@@ -68,7 +68,7 @@ Issue No. | Issue | Stretch Goal by easiest to most difficult
 
 
 ## 5. What we expect to Learn
-Goal: Creating a functioning advertising plugin. (**INCOMPLETE**)
+Goal: Creating a functioning advertising plugin. 
 
 Hope to Learn: Advertising plugin specifics, on multiple platforms and devices (PC and Mobile). In the process learn Javascript and Ruby (also see **Point 6** and **Point 8** below).
 
@@ -155,6 +155,6 @@ Coaches' weekly commitment, generic timetable:
 We believe that Discourse is a fantastic discussion platform and the advertising plugin is a practical contribution that would be valuable for current and future users of Discourse.  That is the reason why we have chosen to work on the issues identified.  Additionally,
 
 * Vi: I intend to use Discourse to create a forum and down the track, advertising is something I would utilize. I would be eager to maintain and further the contribution of the advertising plugin beyond Rails Girls Summer of Code.
-* Sarah: Discourse is a relatively well-developed site. Hope to brush up on coding and gain some real experience with rgsoc and discourse with fantastic mentors and coaches. Also, advertising plugins are fairly interesting. Fairly excited to venture into the open-source community.
+* Sarah: Discourse is a relatively well-developed site. With my background in Communications, I hope to see how advertising plugins help in the entirety of marketing and consumer behaviour. I'm ready to brush up on coding and gain some real experience with rgsoc and discourse with fantastic mentors and coaches. Fairly excited to venture into the open-source community.
 
 At the end of the day, we'd like to create something that is requested and needed by the Discourse community.
